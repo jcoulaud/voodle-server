@@ -1,0 +1,1 @@
+ALTER TABLE "strategy" ADD COLUMN "max_bet_amount" numeric NOT NULL;
