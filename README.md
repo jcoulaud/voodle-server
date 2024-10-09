@@ -2,7 +2,7 @@
 ![APACHE 2.0 License](https://img.shields.io/badge/license-APACHE%202.0-green.svg)
 [![X Follow](https://img.shields.io/twitter/follow/JulienCoulaud?style=social)](https://twitter.com/JulienCoulaud)
 
-# Voodle: Crypto trading platform on TON blockchain
+# Voodle: Crypto trading platform on TON blockchain (Backend)
 
 Voodle is a trading platform where users can create strategies to automatically buy and sell tokens on the TON blockchain, without the need for technical knowledge.
 
