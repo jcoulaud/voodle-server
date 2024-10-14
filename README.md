@@ -96,7 +96,19 @@ The frontend design needs to be improved.
    pnpm run start:dev
    ```
 
-6. Start the frontend:
+6. Start the pool manager (updates token pool information in the database):
+
+   ```
+   pnpm run start:pool
+   ```
+
+7. Start the trading engine (checking for new strategies to execute):
+
+   ```
+   pnpm run start:trading
+   ```
+
+8. Start the frontend:
 
    To run the frontend application, please refer to the [Voodle Frontend Repository](https://github.com/jcoulaud/voodle-client) for installation and setup instructions.
 
@@ -116,4 +128,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the [Apache 2.0 License](./LICENSE) - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the [AGPLv3 license](./LICENSE) - see the [LICENSE](./LICENSE) file for details.
